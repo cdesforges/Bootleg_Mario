@@ -1,0 +1,12 @@
+//
+// Created by Chandler Desforges on 11/19/24.
+//
+
+#ifndef BOOTLEG_MARIO_ANIMATIONTYPE_H
+#define BOOTLEG_MARIO_ANIMATIONTYPE_H
+
+
+enum AnimationType {DEFAULT, IDLE, WALK, RUN, JUMP, CROUCH};
+
+
+#endif //BOOTLEG_MARIO_ANIMATIONTYPE_H
